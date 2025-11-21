@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p169803-e1812709.adobeaemcloud.com/bin/franklin.delivery/salvamolaso/fcporto/main"
+    url: "https://author-p169803-e1812709.adobeaemcloud.com/bin/franklin.delivery/salvamolaso/fc-porto/main"
     type: "markup"
     suffix: ".html"
